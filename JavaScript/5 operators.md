@@ -56,16 +56,16 @@ x *= 2;   // 30
 
 Used to compare two values (returns `true` or `false`).
 
-|Operator|Description|Example (`a=10, b=5`)|Result|
-|---|---|---|---|
-|`==`|Equal to (loose)|`a == "10"`|true|
-|`===`|Strict equal (type + value)|`a === "10"`|false|
-|`!=`|Not equal|`a != b`|true|
-|`!==`|Strict not equal|`a !== "10"`|true|
-|`>`|Greater than|`a > b`|true|
-|`<`|Less than|`a < b`|false|
-|`>=`|Greater or equal|`a >= 10`|true|
-|`<=`|Less or equal|`b <= 5`|true|
+| Operator | Description                 | Example (`a=10, b=5`) | Result |
+| -------- | --------------------------- | --------------------- | ------ |
+| `==`     | Equal to (loose)            | `a == "10"`           | true   |
+| `===`    | Strict equal (type + value) | `a === "10"`          | false  |
+| `!=`     | Not equal                   | `a != b`              | true   |
+| `!==`    | Strict not equal            | `a !== "10"`          | true   |
+| `>`      | Greater than                | `a > b`               | true   |
+| `<`      | Less than                   | `a < b`               | false  |
+| `>=`     | Greater or equal            | `a >= 10`             | true   |
+| `<=`     | Less or equal               | `b <= 5`              | true   |
 
 ```js
 let a = 10, b = 5;
@@ -79,11 +79,11 @@ console.log(a === "10");  // false
 
 Used to combine conditions (returns `true`/`false`).
 
-|Operator|Description|Example (`a=10, b=5`)|Result|
-|---|---|---|---|
-|`&&`|Logical AND|`(a>5 && b<10)`|true|
-|`||`|Logical OR|
-|`!`|Logical NOT|`!(a>5)`|false|
+| Operator | Description | Example (`a=10, b=5`) | Result     |
+| -------- | ----------- | --------------------- | ---------- |
+| `&&`     | Logical AND | `(a>5 && b<10)`       | true       |
+| `        |             | `                     | Logical OR |
+| `!`      | Logical NOT | `!(a>5)`              | false      |
 
 ```js
 let a = 10, b = 5;
