@@ -17,3 +17,7 @@ desktop.ini
 # Logs & temp
 *.log
 *.tmp
+.obsidian/core-plugins.json
+.obsidian/app.json
+.obsidian/canvas.json
+.obsidian/community-plugins.json
