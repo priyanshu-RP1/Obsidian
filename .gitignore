@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian cache + UI state (not needed for sync)
+.obsidian/cache/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+
+# Ignore plugins + themes
+.obsidian/plugins/
+.obsidian/themes/
+
+# Logs & temp
+*.log
+*.tmp
