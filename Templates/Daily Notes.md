@@ -10,9 +10,9 @@
 
 # 🚀 Todo  
 ---
-- [ ]   
-- [ ]   
-- [ ]   
+- [ ]   Exercise
+- [ ]   fasting
+- [ ]   Running
 - [ ] 
 
 # 📅 Day  
