@@ -1,3 +1,4 @@
+#js #javascript #notes #programming
 # 🌸 Introduction to JavaScript  
 
 ## 📖 History of JavaScript  

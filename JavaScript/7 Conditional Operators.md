@@ -135,5 +135,3 @@ Adult ✅
 👉 Conditional statements are the **decision makers** of programs 💡
 
 ---
-
-Do you want me to now prepare the **Loops notes (for, while, do-while, for-of, for-in)** in the same clean format baby? 🌸
