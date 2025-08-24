@@ -62,4 +62,6 @@ JavaScript is called the **language of the web** because:
 [[5 data types]]
 [[6 operators]]
 [[7 Conditional Operators]]
+[[8 Loops]]
+
 
