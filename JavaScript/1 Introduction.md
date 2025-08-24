@@ -51,3 +51,14 @@ JavaScript is called the **language of the web** because:
 - **IoT (Internet of Things)** → control smart devices with JS  
 
 ---
+
+# chapters 
+
+[[1 Introduction]]
+[[2 Input Output]]
+[[3 comments]]
+[[4 Variables]]
+[[5 data types]]
+[[6 operators]]
+[[7 Conditional Operators]]
+
