@@ -10,6 +10,9 @@
 [[8 Loops]]
 [[9 Strings]]
 [[10 String Methods]]
+[[11 Arrays]]
+[[12 Array Methods]]
+
 
 
 
