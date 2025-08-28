@@ -58,3 +58,4 @@ console.log(str[7]); // 'y'
 
 ---
 
+next is [[10 String Methods]]
