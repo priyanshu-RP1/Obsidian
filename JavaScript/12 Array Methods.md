@@ -74,6 +74,17 @@ let c = a.concat(b);
 console.log(c); // [1, 2, 3, 4]
 ```
 
+joining 3 or 4 example - 
+```javascript
+let arr1 = ["apple", "banana"];
+let arr2 = ["mango", "orange"];
+let arr3 = ["grapes", "kiwi"];
+
+let allFruits = arr1.concat(arr2, arr3);
+console.log(allFruits);
+// ["apple", "banana", "mango", "orange", "grapes", "kiwi"]
+```
+
 ---
 
 ### 🔹 4. `slice(start, end)`
