@@ -12,6 +12,8 @@
 [[10 String Methods]]
 [[11 Arrays]]
 [[12 Array Methods]]
+[[13 functions]]
+[[14 Arrow Function]]
 
 
 
