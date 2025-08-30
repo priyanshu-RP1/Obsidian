@@ -14,7 +14,5 @@
 [[12 Array Methods]]
 [[13 functions]]
 [[14 Arrow Function]]
-
-
-
-
+[[15 ForEach Function]]
+[[16 Callback Function]]
