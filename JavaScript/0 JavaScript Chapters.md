@@ -17,3 +17,7 @@
 [[15 ForEach Function]]
 [[16 Callback Function]]
 [[17 array advanced functions]]
+
+---
+#DOM
+[[18 DOM Introduction]]
