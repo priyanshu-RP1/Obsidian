@@ -16,3 +16,4 @@
 [[14 Arrow Function]]
 [[15 ForEach Function]]
 [[16 Callback Function]]
+[[17 array advanced functions]]
